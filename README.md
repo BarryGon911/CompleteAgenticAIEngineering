@@ -28,4 +28,4 @@ Agent Creator—an Agent that builds and launches new Agents using AutoGen, unlo
 
 # Project08:
 
-Capstone Project—build a Trading Floor with 4 Agents making autonomous trades, powered by 6 MCP servers and 44 tools!
+Capstone Project—build a Trading Floor with 4 Agents making autonomous trades, powered by 6 MCP servers and tools!
